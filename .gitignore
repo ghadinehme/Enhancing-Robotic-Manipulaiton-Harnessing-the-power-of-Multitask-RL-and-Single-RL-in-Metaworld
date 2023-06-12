@@ -208,7 +208,7 @@ single-life-rl_MT/tmp/sac/critic_2_sac.zip
 single-life-rl_MT/tmp/sac/episodes.npy
 single-life-rl_MT/tmp/sac/mtsac_replay_buffer.json
 single-life-rl_MT/tmp/sac/per_episode_reward_history.npy
-tmp/**
+
 single-life-rl_MT/tmp/sac/target_value_sac.zip
 **.json
 
